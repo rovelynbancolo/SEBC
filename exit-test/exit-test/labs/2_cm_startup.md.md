@@ -1,0 +1,2 @@
+[root@ip-172-31-89-27 lib]# cat /var/log/cloudera-scm-server/cloudera-scm-server.log | grep 'Started Jetty'
+2018-05-18 04:00:36,248 INFO WebServerImpl:com.cloudera.server.cmf.WebServerImpl: Started Jetty server.
